@@ -3,7 +3,7 @@ Bem vindos ao meu perfil 😁
 <!--
 **juliasgf/juliasgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Meu nome é Julia Soares Fomes Fernandes
+Meu nome é Julia Soares Gomes Fernandes.
 
 - 🔭 Estou estudando na Alura
 - 🌱 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
